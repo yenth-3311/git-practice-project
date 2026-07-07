@@ -1,2 +1,3 @@
-Testcase 01: Login pagecontact: John Doe
+Testcase 01: Login page
+User name: John Doe
 Email: john.doe@example.com
