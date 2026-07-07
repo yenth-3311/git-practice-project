@@ -1,2 +1,6 @@
 Testcase 01: Login page
+<<<<<<< HEAD
 Update only for develop on local
+=======
+Edit on Git
+>>>>>>> e3f47ebdddbfd2e4057af829c98e3c564d9491e1
